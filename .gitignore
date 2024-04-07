@@ -1,0 +1,14 @@
+.vagrant
+.vscode
+.venv
+awx-operator
+id_rsa_files
+*/target*
+*/box*
+*/.vagrant
+*/ansible.log
+*/roles
+*/*.vdi
+*/testkey
+*/testkey.pub
+*/files
